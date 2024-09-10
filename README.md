@@ -27,12 +27,10 @@ Most of my projects are currently private, hence the rather empty public repos. 
 
 One Project that i am working on is ChaTea 🍵, similar to Omegle but with new cutting edge moderation to remove the nasties from an actually fun concept!
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak">
-</details>
+## 📊 GitHub Stats
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=DevAwake&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwake&theme=radical" alt="GitHub Streak">
 
 ## 📫 Let's Connect
 
