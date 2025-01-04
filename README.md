@@ -41,7 +41,7 @@ One Project that i am working on is ChaTea 🍵, similar to Omegle but with new 
   <a href="https://x.com/DevAwakeYT">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://devawake.com">
+  <a href="https://harryharris.dev">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </p>
